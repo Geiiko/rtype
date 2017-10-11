@@ -1,0 +1,10 @@
+a.out
+*.o
+*~
+*.so
+\#*#
+.#*
+rtype_client
+rtype_server
+*.dpd
+*.autosave
